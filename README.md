@@ -3,15 +3,15 @@ Github Repository for the metadata tool for improved interoperability T.i.A.M.A.
 
 Acronym for "**T**ool for the Qual**i**ty **A**ssessment of 3D **M**odels used in **A**rchaeological **T**asks". 
 
-[Logo](Logo_Tiamat.png)
+![Logo](Logo_Tiamat.png)
 
 ## Description
 T.i.A.M.A.T is a tool accompanying the ontology project ["PODS"](https://github.com/Vlauro/PODS) by Vittorio Lauro and Timo Homburg. It can be used to determine the quality of a scanned 3D Model by taking the available metadata into consideration. It allows the user to not only export the input metadata as a JSON file but also ascertain whether a model could be used in certain use-cases. Currently T.i.A.M.A.T targets archaeologists and has use-cases for the area of "Teaching and Dissemination" implemented.
 
 ## Visuals
-[Selection Screen](Selection_Screen.png), 
-[Video Rendering Screen](Video_Rendering.png), 
-[Mobile Application Screen](Mobile_Application_Screen.png)
+![Selection Screen](Selection_Screen.png), 
+![Video Rendering Screen](Video_Rendering.png), 
+![Mobile Application Screen](Mobile_Application_Screen.png)
 
 ## Installation Note
 T.i.A.M.A.T was created in the _Eclipse IDE_. In the Source Code folder I have uploaded the source code created for the application - along with the Logo and JSON Library.
