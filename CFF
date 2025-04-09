@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Weber
+    given-names: Ann-Kathrin
+    orcid: orcid.org/0009-0006-5850-4617
+title: "T.i.A.M.A.T"
+version: 2.0
+identifiers:
+  - type: 
+    value: 
+date-released: 10.01.2025
