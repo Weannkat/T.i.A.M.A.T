@@ -1,0 +1,79 @@
+{
+    "F111 VideoFormat": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/290",
+        "value": "MP4"
+    },
+    "F113 VideoDuration": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/292#F113_Video_Duration",
+        "value": "00:20"
+    },
+    "F75 ExportedVideo3DRendering": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/162#F75_Project_Video",
+        "value": "https://youtu.be/Z3ij1Y8eNeE"
+    },
+    "F71 FinalPurpose": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/158#F71_Final_Use_of_Digital_Twin",
+        "value": "Video Rendering "
+    },
+    "F156 ModelComposition_MultipleParts": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/335#F156_Model_Composition_from_Multiple_Parts",
+        "value": "No"
+    },
+    "Created in T.i.A.M.A.T": {"value": "true"},
+    "F31 ProcessingSoftware": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/117#F31_Processing_Software",
+        "value": "ATOS III Professional GOM Software 2021 Hotfix 9"
+    },
+    "F154 Georeferencing_3DModel": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/333#F154_Georeferencing_of_the_3D_Model",
+        "value": ""
+    },
+    "F21 Matching Algorithm": {"value": "Select a Matching Algorithm"},
+    "F155 Orientation_3DModel": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/334#F155_Orientation_of_the_3D_ModelS",
+        "value": "NR No Rotation: No rotation applied (model aligned to the global system)"
+    },
+    "F1 SurveyObject": {
+        "Scope Note": "Survey Object denotes any object subjected to photogrammetric surveying or any kind of digital surveying. It represents the target of data acquisition processes, crucial for generating detailed digital records, analyses, and reconstructions within the FOPPA model for archaeological documentation. It must be a solid and visible object. The expression visible means that it interacts with light",
+        "value": "Printed Copy of HS.1174"
+    },
+    "F112 VideoResolution": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/291#F112_Video_Resolution",
+        "value": "1074:820"
+    },
+    "SurveyLink": {"value": "https://www.ebl.lmu.de/fragmentarium/HS.1445"},
+    "F62 ProcessedTexturedMeshTextureSet": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/149#F62_Texture_Set_of_3D_Mesh",
+        "value": ""
+    },
+    "F59 TridimensionalDigitalTwinDigitalScale": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/146#F59_Digital_Scale",
+        "value": "1:1"
+    },
+    "F72 Exported3DModelVideoRendering": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/159#F72_3D_Model_Video_Rendering",
+        "value": "https://drive.google.com/file/d/1qG6q6HxFt1ZdY0_tl_am_anOAfXnj1b-/view?usp=drive_link"
+    },
+    "F64 Modelling_ModifyingDescription": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/151#F64_Modelling_Description",
+        "value": ""
+    },
+    "F23 Meshing Algorithm": {"value": "Select a Meshing Algorithm"},
+    "Name of the Object": {"value": "20241107ZETAsbB002"},
+    "F100 TridimensionalDigitalTwin": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/145#F100_3D_Digital_Twin",
+        "value": "https://drive.google.com/file/d/1qG6q6HxFt1ZdY0_tl_am_anOAfXnj1b-/view?usp=drive_link"
+    },
+    "F73 Exporting_EditingRenderingVideo": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/160#F73_Editing_Video",
+        "value": "Nothing"
+    },
+    "F42 AcquisitionLocation": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/128#F42_Place_Of_Acquisition",
+        "value": "C0.05 room, Applied Science University of Mainz"
+    },
+    "F74 Exporting_EditingRenderingVideoSoftware": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/161#F74_Video_Editing_Software",
+        "value": "Windows Capture Screen"
+    }
+}
